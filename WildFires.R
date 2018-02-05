@@ -1,3 +1,6 @@
+#I have failed to make either of my code attempts work. I have no graphs to show. I've run out of time. 
+
+
 install.packages("sqldf")
 library(sqldf)
 library(ggplot2)

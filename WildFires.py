@@ -1,3 +1,7 @@
+#I have failed to make either of my code attempts work. I have no graphs to show. I've run out of time. 
+
+
+
 import sqlite3
 import numpy as np
 import pandas as pd
