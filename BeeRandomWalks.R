@@ -67,14 +67,14 @@ print(distList)
 mean(distList)
 sd(distList)
 
-print(distance_table)
+#print(distance_table)
 
 
-plot(g)
+#plot(g)
 
 
 ## These are similar, but not exactly the same
-cor(table(w), ec)
+#cor(table(w), ec)
 
 ## But these are (almost) the same
-cor(table(w), pg)
+#cor(table(w), pg)
