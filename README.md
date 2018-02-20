@@ -3,8 +3,8 @@
 There are some fun graphs in here.
 
 The PNGs
--Number of fires by year
--Number of fire by state
+-Number of fires by year   https://github.com/alzulas/DataScienceIncubator/blob/master/NumberOfFiresByYear.png
+-Number of fire by state   https://github.com/alzulas/DataScienceIncubator/blob/master/NumberOfFiresByState.png
 
 The screen shots include 
 -A map of the US showing the number of Fires
